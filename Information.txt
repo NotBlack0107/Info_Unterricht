@@ -1,0 +1,4 @@
+Dies ist die Arbeit von Leon Förster, für den Informatikunterricht.
+Quellen:
+	-> Video: https://lehrer-hoefler.de/wp-content/uploads/2021/11/Praesentation_Datentyp.mp4
+	-> Audio: https://www.youtube.com/watch?v=cGBMTAGzWPs
